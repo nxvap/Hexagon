@@ -72,10 +72,144 @@ return {
 
     pt = {
         ["Hexagon Client (English) 🃏"] = "Hexagon Client (Português) 🃏",
+        ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
+        ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
+
+        ["Info"] = "Informação",
+        ["Player"] = "Jogador",
+        ["Avatar"] = "Avatar",
+        ["Profile"] = "Perfil",
+        ["Music"] = "Música",
+        ["Troll"] = "Troll",
+        ["Scripts"] = "Scripts",
+        ["Premium"] = "Premium",
+        ["Teleport"] = "Teleporte",
+        ["Protection"] = "Proteção",
+        ["Admin"] = "Administrador",
+        ["Event"] = "Evento",
+        ["Server"] = "Servidor",
+
+        ["Speed"] = "Velocidade",
+        ["JumpPower"] = "Poder de salto",
+        ["Gravity"] = "Gravidade",
+        ["Infinite Jump"] = "Salto Infinito",
+        ["Reset Values"] = "Redefinir valores",
+
+        ["Copy Character"] = "Copiar personagem",
+        ["Select Player"] = "Selecione o jogador",
+        ["Update List"] = "Lista de atualização",
+        ["Character Clothing"] = "Roupas de personagens",
+        ["Character Editor"] = "Editor de personagens",
+        ["Advanced Character Editor"] = "Editor de personagens avançado",
+        ["Load Character Parts"] = "Carregar partes do personagem",
+        ["Select Body Part"] = "Selecione a parte do corpo",
+        ["Choose a part you want to equip"] = "Escolha a peça que deseja equipar",
+        ["Equip Selected Part"] = "Equipar a peça selecionada",
+        ["Equip the selected body part"] = "Equipe a parte do corpo selecionada",
+        ["Equip All Parts"] = "Equipe todas as peças",
+        ["Equip all selected body parts"] = "Equipe todas as partes do corpo selecionadas",
+        ["Character Animation"] = "Animação de personagens",
+
+        ["Names"] = "Nomes",
+        ["Music All Server"] = "Música para todos os servidores",
+        ["Select Audio"] = "Selecione áudio",
+        ["Play Audio"] = "Reproduzir áudio",
+        ["Loop Audio"] = "Áudio em loop",
+
+        ["House"] = "Casa",
+        ["Unban all houses"] = "Desbanir todas as casas",
+        ["Troll Scripts"] = "Troll Scripts",
+        ["Admin Tools"] = "Ferramentas administrativas",
+        ["Admin Commands"] = "Comandos administrativos",
+        ["Spam Commands"] = "Comandos de spam",
+        
+        ["Graphics"] = "Gráficos",
+        ["Animation"] = "Animação",
+
+        ["Gamepass Vehicle Speed Unlocked"] = "Velocidade do veículo desbloqueada pelo Gamepass",
+        ["Speed Power"] = "Potência de velocidade",
+        ["Speed Value"] = "Valor de velocidade",
+        ["Turbo Power"] = "Potência turbo",
+        ["Turbo Value"] = "Valor turbo",
+        ["Apply Speed"] = "Aplicar velocidade",
+        ["Apply speed value"] = "Aplicar valor de velocidade",
+
+        ["Teleports"] = "Teleportes",
+
+        ["Lag Server"] = "Lag Server",
+        ["Server Spam"] = "Server Spam",
+        ["Server Commands"] = "Server Commands",
     },
 
     ptpt = {
         ["Hexagon Client (English) 🃏"] = "Hexagon Client (Português) 🃏",
+        ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
+        ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
+
+        ["Info"] = "Informação",
+        ["Player"] = "Jogador",
+        ["Avatar"] = "Avatar",
+        ["Profile"] = "Perfil",
+        ["Music"] = "Música",
+        ["Troll"] = "Troll",
+        ["Scripts"] = "Scripts",
+        ["Premium"] = "Premium",
+        ["Teleport"] = "Teleporte",
+        ["Protection"] = "Proteção",
+        ["Admin"] = "Administrador",
+        ["Event"] = "Evento",
+        ["Server"] = "Servidor",
+
+        ["Speed"] = "Velocidade",
+        ["JumpPower"] = "Poder de salto",
+        ["Gravity"] = "Gravidade",
+        ["Infinite Jump"] = "Salto Infinito",
+        ["Reset Values"] = "Redefinir valores",
+
+        ["Copy Character"] = "Copiar personagem",
+        ["Select Player"] = "Selecione o jogador",
+        ["Update List"] = "Lista de atualização",
+        ["Character Clothing"] = "Roupas de personagens",
+        ["Character Editor"] = "Editor de personagens",
+        ["Advanced Character Editor"] = "Editor de personagens avançado",
+        ["Load Character Parts"] = "Carregar partes do personagem",
+        ["Select Body Part"] = "Selecione a parte do corpo",
+        ["Choose a part you want to equip"] = "Escolha a peça que deseja equipar",
+        ["Equip Selected Part"] = "Equipar a peça selecionada",
+        ["Equip the selected body part"] = "Equipe a parte do corpo selecionada",
+        ["Equip All Parts"] = "Equipe todas as peças",
+        ["Equip all selected body parts"] = "Equipe todas as partes do corpo selecionadas",
+        ["Character Animation"] = "Animação de personagens",
+
+        ["Names"] = "Nomes",
+        ["Music All Server"] = "Música para todos os servidores",
+        ["Select Audio"] = "Selecione áudio",
+        ["Play Audio"] = "Reproduzir áudio",
+        ["Loop Audio"] = "Áudio em loop",
+
+        ["House"] = "Casa",
+        ["Unban all houses"] = "Desbanir todas as casas",
+        ["Troll Scripts"] = "Troll Scripts",
+        ["Admin Tools"] = "Ferramentas administrativas",
+        ["Admin Commands"] = "Comandos administrativos",
+        ["Spam Commands"] = "Comandos de spam",
+        
+        ["Graphics"] = "Gráficos",
+        ["Animation"] = "Animação",
+
+        ["Gamepass Vehicle Speed Unlocked"] = "Velocidade do veículo desbloqueada pelo Gamepass",
+        ["Speed Power"] = "Potência de velocidade",
+        ["Speed Value"] = "Valor de velocidade",
+        ["Turbo Power"] = "Potência turbo",
+        ["Turbo Value"] = "Valor turbo",
+        ["Apply Speed"] = "Aplicar velocidade",
+        ["Apply speed value"] = "Aplicar valor de velocidade",
+
+        ["Teleports"] = "Teleportes",
+
+        ["Lag Server"] = "Lag Server",
+        ["Server Spam"] = "Server Spam",
+        ["Server Commands"] = "Server Commands",
     },
 
     es = {
@@ -147,5 +281,13 @@ return {
         ["Lag Server"] = "Laguear Servidor",
         ["Server Spam"] = "Servidor Spam",
         ["Server Commands"] = "Comandos del Servidor",
+    },
+
+    ru = {
+        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Россия) 🃏",
+    },
+    
+    ar = {
+        ["Hexagon Client (English) 🃏"] = "Hexagon Client (عربي) 🃏",
     }
 }

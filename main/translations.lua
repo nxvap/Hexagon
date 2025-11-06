@@ -294,6 +294,10 @@ return {
     ru = {
         ["Hexagon Client (English) 🃏"] = "Hexagon Client (Россия) 🃏",
     },
+
+    th = {
+        ["Hexagon Client (English) 🃏"] = "Hexagon Client (แบบไทย) 🃏",
+    },
     
     ar = {
         ["Hexagon Client (English) 🃏"] = "Hexagon Client (عربي) 🃏",

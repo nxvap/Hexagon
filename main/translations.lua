@@ -291,12 +291,89 @@ return {
         ["Server Commands"] = "Comandos del Servidor",
     },
 
+    id = {
+        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Indonesia) 🃏",
+        ["Welcome to Hexagon Client"] = "Selamat datang di Klien Hexagon",
+        ["Join the Discord official"] = "Bergabunglah dengan Discord resmi",
+
+        ["Info"] = "Informasi",
+        ["Player"] = "Pemain",
+        ["Avatar"] = "Avatar",
+        ["Profile"] = "Profil",
+        ["Music"] = "Musik",
+        ["Troll"] = "Troll",
+        ["Scripts"] = "Skrip",
+        ["Premium"] = "Premi",
+        ["Teleport"] = "Teleportasi",
+        ["Protection"] = "Perlindungan",
+        ["Admin"] = "Administrasi",
+        ["Event"] = "Peristiwa",
+        ["Server"] = "Pelayan",
+
+        ["Speed"] = "Kecepatan",
+        ["JumpPower"] = "Lompat Kekuatan",
+        ["Gravity"] = "Gaya berat",
+        ["Infinite Jump"] = "Lompatan Tak Terbatas",
+        ["Reset Values"] = "Atur Ulang Nilai",
+
+        ["Copy Character"] = "Salin Karakter",
+        ["Select Player"] = "Pilih Pemain",
+        ["Update List"] = "Daftar Pembaruan",
+        ["Character Clothing"] = "Pakaian Karakter",
+        ["Character Editor"] = "Editor Karakter",
+        ["Advanced Character Editor"] = "Editor Karakter Tingkat Lanjut",
+        ["Load Character Parts"] = "Muat Bagian Karakter",
+        ["Select Body Part"] = "Pilih Bagian Tubuh",
+        ["Choose a part you want to equip"] = "Pilih bagian yang ingin Anda lengkapi",
+        ["Equip Selected Part"] = "Lengkapi Bagian yang Dipilih",
+        ["Equip the selected body part"] = "Lengkapi bagian tubuh yang dipilih",
+        ["Equip All Parts"] = "Lengkapi Semua Bagian",
+        ["Equip all selected body parts"] = "Lengkapi semua bagian tubuh yang dipilih",
+        ["Character Animation"] = "Animasi Karakter",
+
+        ["Names"] = "Nama",
+        ["Music All Server"] = "Musik Semua Server",
+        ["Select Audio"] = "Pilih Audio",
+        ["Play Audio"] = "Putar Audio",
+        ["Loop Audio"] = "Lingkaran Audio",
+
+        ["House"] = "Rumah",
+        ["Unban all houses"] = "Batalkan larangan semua rumah",
+        ["Troll Scripts"] = "Skrip Troll",
+        ["Admin Tools"] = "Alat Admin",
+        ["Admin Commands"] = "Perintah Admin",
+        ["Spam Commands"] = "Perintah Spam",
+        
+        ["Graphics"] = "Grafik",
+        ["Animation"] = "Animasi",
+
+        ["Gamepass Vehicle Speed Unlocked"] = "Kecepatan Kendaraan Gamepass Terbuka",
+        ["Speed Power"] = "Kekuatan Kecepatan",
+        ["Speed Value"] = "Nilai Kecepatan",
+        ["Turbo Power"] = "Tenaga Turbo",
+        ["Turbo Value"] = "Nilai Turbo",
+        ["Apply Speed"] = "Terapkan Kecepatan",
+        ["Apply speed value"] = "Terapkan nilai kecepatan",
+        ["Apply Turbo"] = "Terapkan Turbo",
+        ["Apply turbo value"] = "Terapkan nilai turbo",
+
+        ["Teleports"] = "Teleportasi",
+
+        ["Lag Server"] = "Server Keterlambatan",
+        ["Server Spam"] = "Spam Server",
+        ["Server Commands"] = "Perintah Server",
+    },
+
     ru = {
         ["Hexagon Client (English) 🃏"] = "Hexagon Client (Россия) 🃏",
     },
 
     th = {
         ["Hexagon Client (English) 🃏"] = "Hexagon Client (แบบไทย) 🃏",
+    },
+
+    vi = {
+        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Việt Nam) 🃏",
     },
     
     ar = {

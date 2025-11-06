@@ -62,6 +62,8 @@ return {
         ["Turbo Value"] = "Turbo Value",
         ["Apply Speed"] = "Apply Speed",
         ["Apply speed value"] = "Apply speed value",
+        ["Apply Turbo"] = "Apply Turbo",
+        ["Apply turbo value"] = "Apply turbo value",
 
         ["Teleports"] = "Teleports",
 
@@ -133,7 +135,9 @@ return {
         ["Turbo Value"] = "Valor turbo",
         ["Apply Speed"] = "Aplicar velocidade",
         ["Apply speed value"] = "Aplicar valor de velocidade",
-
+        ["Apply Turbo"] = "Aplicar Turbo",
+        ["Apply turbo value"] = "Aplicar valor de turbo",
+        
         ["Teleports"] = "Teleportes",
 
         ["Lag Server"] = "Lag Server",
@@ -204,7 +208,9 @@ return {
         ["Turbo Value"] = "Valor turbo",
         ["Apply Speed"] = "Aplicar velocidade",
         ["Apply speed value"] = "Aplicar valor de velocidade",
-
+        ["Apply Turbo"] = "Aplicar Turbo",
+        ["Apply turbo value"] = "Aplicar valor de turbo",
+        
         ["Teleports"] = "Teleportes",
 
         ["Lag Server"] = "Lag Server",
@@ -275,7 +281,9 @@ return {
         ["Turbo Value"] = "Valor del Turbo",
         ["Apply Speed"] = "Aplicar Velocidad",
         ["Apply speed value"] = "Aplicar el valor de la Velocidad",
-
+        ["Apply Turbo"] = "Aplicar Turbo",
+        ["Apply turbo value"] = "Aplicar el valor del turbo",
+        
         ["Teleports"] = "Teletransportes",
 
         ["Lag Server"] = "Laguear Servidor",

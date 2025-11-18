@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nxvap/VictoryHub/main/Victory_Hub.lua"))()
+loadstring(game:HttpGet("https://cdn.authguard.org/virtual-file/5af4634704d048e4be5de8b043e1bec5"))()

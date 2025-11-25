@@ -1,0 +1,22 @@
+{
+  "roun95": {
+    "type": "Owner",
+    "expires": null
+  },
+  "deluxe_studios": {
+    "type": "Admin",
+    "expires": "27/11/2025 23:59"
+  },
+  "ace_gamer248": {
+    "type": "Mod",
+    "expires": "24/12/2025 23:59"
+  },
+  "nort_vt": {
+    "type": "Staff",
+    "expires": "23/11/2025 23:59"
+  },
+  "yoyo_bre9": {
+    "type": "Vip",
+    "expires": "27/11/2025 23:59"
+  }
+}

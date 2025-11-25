@@ -264,8 +264,8 @@ return {
         ["House"] = "Casa",
         ["Unban all houses"] = "Desbanir todas as casas",
         ["Troll Scripts"] = "Scripts troll",
-        ["Admin Tools"] = "Ferramentas troll",
-        ["Admin Commands"] = "Comandos troll",
+        ["Troll Tools"] = "Ferramentas troll",
+        ["Troll Options"] = "Opciones troll",
         ["Spam Commands"] = "Comandos de spam",
         ["Canoes Spam"] = "Spam de Canoas",
 
@@ -350,8 +350,8 @@ return {
         ["House"] = "Casa",
         ["Unban all houses"] = "Desbanir todas as casas",
         ["Troll Scripts"] = "Scripts troll",
-        ["Admin Tools"] = "Ferramentas troll",
-        ["Admin Commands"] = "Comandos troll",
+        ["Troll Tools"] = "Ferramentas troll",
+        ["Troll Options"] = "Opciones troll",
         ["Spam Commands"] = "Comandos de spam",
         ["Canoes Spam"] = "Spam de canoa",
 
@@ -418,28 +418,24 @@ return {
         ["House"] = "Rumah",
         ["Unban all houses"] = "Batalkan larangan semua rumah",
         ["Troll Scripts"] = "Skrip Troll",
-        ["Admin Tools"] = "Alat Admin",
-        ["Admin Commands"] = "Perintah Admin",
+        ["Troll Tools"] = "Alat Troll",
+        ["Troll Options"] = "Opsi Troll",
         ["Spam Commands"] = "Perintah Spam",
         
         ["Graphics"] = "Grafik",
         ["Animation"] = "Animasi",
 
-        ["Gamepass Vehicle Speed Unlocked"] = "Kecepatan Kendaraan Gamepass Terbuka",
-        ["Speed Power"] = "Kekuatan Kecepatan",
+        ["Vehicle Speed Unlocker"] = "Pembuka Kecepatan Kendaraan",
         ["Speed Value"] = "Nilai Kecepatan",
-        ["Turbo Power"] = "Tenaga Turbo",
         ["Turbo Value"] = "Nilai Turbo",
         ["Apply Speed"] = "Terapkan Kecepatan",
-        ["Apply speed value"] = "Terapkan nilai kecepatan",
         ["Apply Turbo"] = "Terapkan Turbo",
-        ["Apply turbo value"] = "Terapkan nilai turbo",
+        ["Limited Items Unlocker"] = "Pembuka Item Terbatas",
+        ["VIP Particles Unlocker"] = "Pembuka Partikel VIP",
 
         ["Teleports"] = "Teleportasi",
 
-        ["Lag Server"] = "Server Keterlambatan",
-        ["Server Spam"] = "Spam Server",
-        ["Server Commands"] = "Perintah Server",
+        ["Admin Commands"] = "Perintah Admin",
     },
 
     ru = {

@@ -1,8 +1,9 @@
 return {
     en = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (English) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (English)",
         ["Welcome to Hexagon Client"] = "Welcome to Hexagon Client",
         ["Join the Discord official"] = "Join the Discord official",
+        ["Copy Discord link"] = "Copy Discord link",
 
         ["Info"] = "Info",
         ["Player"] = "Player",
@@ -15,18 +16,21 @@ return {
         ["Teleport"] = "Teleport",
         ["Protection"] = "Protection",
         ["Admin"] = "Admin",
-        ["Event"] = "Event",
-        ["Server"] = "Server",
 
         ["Speed"] = "Speed",
         ["JumpPower"] = "JumpPower",
         ["Gravity"] = "Gravity",
         ["Infinite Jump"] = "Infinite Jump",
         ["Reset Values"] = "Reset Values",
+        ["Ultimate Noclip"] = "Ultimate Noclip",
+        ["Change Fov"] = "Change Fov",
+        ["Fov Player"] = "Fov Player",
+        ["Change Fov"] = "Adjust Fov",
 
         ["Copy Character"] = "Copy Character",
         ["Select Player"] = "Select Player",
         ["Update List"] = "Update List",
+        ["Character Clothing"] = "Copy Character",
         ["Character Clothing"] = "Character Clothing",
         ["Character Editor"] = "Character Editor",
         ["Advanced Character Editor"] = "Advanced Character Editor",
@@ -38,6 +42,21 @@ return {
         ["Equip All Parts"] = "Equip All Parts",
         ["Equip all selected body parts"] = "Equip all selected body parts",
         ["Character Animation"] = "Character Animation",
+        ["Advanced Animation Customizer"] = "Advanced Animation Customizer",
+        ["Select Idle Animation"] = "Select Idle Animation",
+        ["Equip Idle Animation"] = "Equip Idle Animation",
+        ["Select Walk Animation"] = "Select Walk Animation",
+        ["Equip Walk Animation"] = "Equip Walk Animation",
+        ["Select Run Animation"] = "Select Run Animation",
+        ["Equip Run Animation"] = "Equip Run Animation",
+        ["Select Jump Animation"] = "Select Jump Animation",
+        ["Equip Jump Animation"] = "Equip Jump Animation",
+        ["Select Fall Animation"] = "Select Fall Animation",
+        ["Equip Fall Animation"] = "Equip Fall Animation",
+        ["Select Climb Animation"] = "Select Climb Animation",
+        ["Equip Climb Animation"] = "Equip Climb Animation",
+        ["Select Swim Animation"] = "Select Swim Animation",
+        ["Equip Swim Animation"] = "Equip Swim Animation",
 
         ["Names"] = "Names",
         ["Music All Server"] = "Music All Server",
@@ -45,35 +64,44 @@ return {
         ["Play Audio"] = "Play Audio",
         ["Loop Audio"] = "Loop Audio",
 
+        ["View Player"] = "View Player",
+        ["TP Player"] = "TP Player",
+        ["Glue Player"] = "Glue Player",
+        ["Headsit Player"] = "Headsit Player",
+        ["Headsit Toggle"] = "Headsit Toggle",
+        ["Invisible Toggle"] = "Invisible Toggle",
+        ["ESP"] = "ESP",
+        ["Select Color"] = "Select Color",
+        ["ESP Players"] = "ESP Players",
+        ["Child"] = "Child",
+        ["Send Child"] = "Send Child",
+        ["Return Child"] = "Return Child",
         ["House"] = "House",
         ["Unban all houses"] = "Unban all houses",
         ["Troll Scripts"] = "Troll Scripts",
-        ["Admin Tools"] = "Admin Tools",
-        ["Admin Commands"] = "Admin Commands",
+        ["Troll Tools"] = "Admin Tools",
+        ["Troll Options"] = "Admin Commands",
         ["Spam Commands"] = "Spam Commands",
+        ["Canoes Spam"] = "Canoes Spam",
         
         ["Graphics"] = "Graphics",
         ["Animation"] = "Animation",
 
-        ["Gamepass Vehicle Speed Unlocked"] = "Gamepass Vehicle Speed Unlocked",
-        ["Speed Power"] = "Speed Power",
+        ["Vehicle Speed Unlocker"] = "Vehicle Speed Unlocker",
         ["Speed Value"] = "Speed Value",
-        ["Turbo Power"] = "Turbo Power",
         ["Turbo Value"] = "Turbo Value",
         ["Apply Speed"] = "Apply Speed",
-        ["Apply speed value"] = "Apply speed value",
         ["Apply Turbo"] = "Apply Turbo",
-        ["Apply turbo value"] = "Apply turbo value",
+        ["Limited Items Unlocker"] = "Limited Items Unlocker",
+        ["VIP Particles Unlocker"] = "VIP Particles Unlocker",
 
         ["Teleports"] = "Teleports",
 
-        ["Lag Server"] = "Lag Server",
-        ["Server Spam"] = "Server Spam",
-        ["Server Commands"] = "Server Commands",
+        ["Admin Commands"] = "Admin Commands",
     },
 
     pt = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Português) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (Português)",
         ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
         ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
 
@@ -88,8 +116,6 @@ return {
         ["Teleport"] = "Teleporte",
         ["Protection"] = "Proteção",
         ["Admin"] = "Administrador",
-        ["Event"] = "Evento",
-        ["Server"] = "Servidor",
 
         ["Speed"] = "Velocidade",
         ["JumpPower"] = "Poder de salto",
@@ -146,7 +172,7 @@ return {
     },
 
     ptpt = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Português) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (Português)",
         ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
         ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
 
@@ -161,8 +187,6 @@ return {
         ["Teleport"] = "Teleporte",
         ["Protection"] = "Proteção",
         ["Admin"] = "Administrador",
-        ["Event"] = "Evento",
-        ["Server"] = "Servidor",
 
         ["Speed"] = "Velocidade",
         ["JumpPower"] = "Poder de salto",
@@ -219,7 +243,7 @@ return {
     },
 
     es = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Español) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (Español)",
         ["Welcome to Hexagon Client"] = "Bienvenido a Hexagon Client",
         ["Join the Discord official"] = "Únete al Discord oficial",
 
@@ -234,8 +258,6 @@ return {
         ["Teleport"] = "Teletransporte",
         ["Protection"] = "Protección",
         ["Admin"] = "Administrador",
-        ["Event"] = "Eventos",
-        ["Server"] = "Servidor",
 
         ["Speed"] = "Velocidad",
         ["JumpPower"] = "Poder de Salto",
@@ -292,7 +314,7 @@ return {
     },
 
     id = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Indonesia) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (Indonesia)",
         ["Welcome to Hexagon Client"] = "Selamat datang di Klien Hexagon",
         ["Join the Discord official"] = "Bergabunglah dengan Discord resmi",
 
@@ -307,8 +329,6 @@ return {
         ["Teleport"] = "Teleportasi",
         ["Protection"] = "Perlindungan",
         ["Admin"] = "Administrasi",
-        ["Event"] = "Peristiwa",
-        ["Server"] = "Pelayan",
 
         ["Speed"] = "Kecepatan",
         ["JumpPower"] = "Lompat Kekuatan",
@@ -365,7 +385,7 @@ return {
     },
 
     ru = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Россия) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (Россия)",
         ["Welcome to Hexagon Client"] = "Добро пожаловать в Hexagon Client",
         ["Join the Discord official"] = "Присоединяйтесь к официальному Discord",
 
@@ -380,8 +400,6 @@ return {
         ["Teleport"] = "Телепортироваться",
         ["Protection"] = "Защита",
         ["Admin"] = "Админ",
-        ["Event"] = "Событие",
-        ["Server"] = "Сервер",
 
         ["Speed"] = "Скорость",
         ["JumpPower"] = "Сила прыжка",
@@ -438,7 +456,7 @@ return {
     },
 
     th = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (แบบไทย) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (แบบไทย)",
         ["Welcome to Hexagon Client"] = "ยินดีต้อนรับสู่ Hexagon Client",
         ["Join the Discord official"] = "เข้าร่วม Discord อย่างเป็นทางการ",
 
@@ -453,8 +471,6 @@ return {
         ["Teleport"] = "เทเลพอร์ต",
         ["Protection"] = "การป้องกัน",
         ["Admin"] = "ผู้ดูแลระบบ",
-        ["Event"] = "เหตุการณ์",
-        ["Server"] = "เซิร์ฟเวอร์",
 
         ["Speed"] = "ความเร็ว",
         ["JumpPower"] = "พลังกระโดด",
@@ -511,11 +527,11 @@ return {
     },
 
     vi = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (Việt Nam) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (Việt Nam)",
     },
     
     ar = {
-        ["Hexagon Client (English) 🃏"] = "Hexagon Client (عربي) 🃏",
+        ["Hexagon Client"] = "Hexagon Client (عربي)",
         ["Welcome to Hexagon Client"] = "مرحبا بك في Hexagon Client",
         ["Join the Discord official"] = "انضم لقروب الديسكور ولا تفوت الفرصة",
 
@@ -530,8 +546,6 @@ return {
         ["Teleport"] = "التنقل",
         ["Protection"] = "الحماية",
         ["Admin"] = "الادمن",
-        ["Event"] = "الحدث",
-        ["Server"] = "سيرفر",
 
         ["Speed"] = "السرعة",
         ["JumpPower"] = "القفز",

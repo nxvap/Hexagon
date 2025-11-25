@@ -202,7 +202,7 @@ return {
     pt = {
         ["Hexagon Client"] = "Hexagon Client (Português)",
         ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
-        ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
+        ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord",
         ["Copy Discord link"] = "Copiar link do Discord",
 
         ["Info"] = "Informação",
@@ -288,7 +288,7 @@ return {
     ptpt = {
         ["Hexagon Client"] = "Hexagon Client (Português)",
         ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
-        ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
+        ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord",
         ["Copy Discord link"] = "Copiar link do Discord",
 
         ["Info"] = "Informação",
@@ -343,17 +343,17 @@ return {
         ["Invisible Toggle"] = "Invisible Toggle",
         ["ESP"] = "Espiar",
         ["Select Color"] = "Selecione a cor",
-        ["ESP Players"] = "Espiar Jogadores",
+        ["ESP Players"] = "Espiar jogadores",
         ["Troll Child"] = "Menino Troll",
-        ["Send Child"] = "Enviar Menino",
-        ["Return Child"] = "Devolver Menino",
+        ["Send Child"] = "Enviar menino",
+        ["Return Child"] = "Devolver menino",
         ["House"] = "Casa",
         ["Unban all houses"] = "Desbanir todas as casas",
         ["Troll Scripts"] = "Scripts troll",
         ["Admin Tools"] = "Ferramentas troll",
         ["Admin Commands"] = "Comandos troll",
         ["Spam Commands"] = "Comandos de spam",
-        ["Canoes Spam"] = "Spam de Canoas",
+        ["Canoes Spam"] = "Spam de canoa",
 
         ["Graphics"] = "Gráficos",
         ["Animation"] = "Animação",

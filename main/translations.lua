@@ -476,6 +476,7 @@ return {
         ["Equip All Parts"] = "Экипировать все детали",
         ["Equip all selected body parts"] = "Экипировать все выбранные части тела",
         ["Character Animation"] = "Анимация персонажей",
+        ["Advanced Animation Customizer"] = "Расширенный настройщик анимации",
 
         ["Names"] = "Имена",
         ["Music All Server"] = "Музыкальный весь сервер",
@@ -504,10 +505,6 @@ return {
         ["Apply turbo value"] = "Применить значение турбо",
 
         ["Teleports"] = "Телепорты",
-
-        ["Lag Server"] = "Лаг-сервер",
-        ["Server Spam"] = "Серверный спам",
-        ["Server Commands"] = "Серверные команды",
     },
 
     th = {
@@ -547,6 +544,7 @@ return {
         ["Equip All Parts"] = "ติดตั้งทุกชิ้นส่วน",
         ["Equip all selected body parts"] = "ติดตั้งส่วนต่างๆ ของร่างกายที่เลือกไว้ทั้งหมด",
         ["Character Animation"] = "แอนิเมชั่นตัวละคร",
+        ["Advanced Animation Customizer"] = "เครื่องมือปรับแต่งภาพเคลื่อนไหวขั้นสูง",
 
         ["Names"] = "ชื่อ",
         ["Music All Server"] = "มิวสิคออลเซิฟเวอร์",
@@ -575,10 +573,6 @@ return {
         ["Apply turbo value"] = "ใช้ค่าเทอร์โบ",
 
         ["Teleports"] = "เทเลพอร์ต",
-
-        ["Lag Server"] = "เซิร์ฟเวอร์ล่าช้า",
-        ["Server Spam"] = "สแปมเซิร์ฟเวอร์",
-        ["Server Commands"] = "คำสั่งเซิร์ฟเวอร์",
     },
 
     vi = {
@@ -650,9 +644,5 @@ return {
         ["Apply turbo value"] = "تطبيق التيربو يلي كتبتو",
 
         ["Teleports"] = "التنقل",
-
-        ["Lag Server"] = "لاق السيرفر",
-        ["Server Spam"] = "سبام السيرفر",
-        ["Server Commands"] = "اوامر السيرفر",
     }
 }

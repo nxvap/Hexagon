@@ -58,7 +58,7 @@ return {
         ["Equip Swim Animation"] = "Equip Swim Animation",
 
         ["Names"] = "Names",
-        ["Music All Server"] = "Music All Server",
+        ["Server Audio Player"] = "Server Audio Player",
         ["Select Audio"] = "Select Audio",
         ["Play Audio"] = "Play Audio",
         ["Loop Audio"] = "Loop Audio",
@@ -158,7 +158,7 @@ return {
         ["Equip Swim Animation"] = "Equipar Animación de Nadar",
 
         ["Names"] = "Nombres",
-        ["Music All Server"] = "Musica para todo el Servidor",
+        ["Server Audio Player"] = "Reproductor de Audio en el Server",
         ["Select Audio"] = "Seleccionar Audio",
         ["Play Audio"] = "Reproducir Audio",
         ["Loop Audio"] = "Repetir Audio",

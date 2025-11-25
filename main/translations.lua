@@ -159,9 +159,9 @@ return {
 
         ["Names"] = "Nombres",
         ["Music All Server"] = "Musica para todo el Servidor",
-        ["Select Audio"] = "Seleccionar Áudio",
-        ["Play Audio"] = "Reproducir Áudio",
-        ["Loop Audio"] = "Repetir Áudio",
+        ["Select Audio"] = "Seleccionar Audio",
+        ["Play Audio"] = "Reproducir Audio",
+        ["Loop Audio"] = "Repetir Audio",
 
         ["View Player"] = "Ver Jugador",
         ["TP Player"] = "Teletransportarse al Jugador",
@@ -186,12 +186,12 @@ return {
         ["Graphics"] = "Gráficos",
         ["Animation"] = "Animación",
 
-        ["Vehicle Speed Unlocker"] = "Desbloquear Velocidad del Vehiculo",
+        ["Vehicle Speed Unlocker"] = "Desbloquear Velocidad del Vehículo",
         ["Speed Value"] = "Valor de la Velocidad",
         ["Turbo Value"] = "Valor del Turbo",
         ["Apply Speed"] = "Aplicar Velocidad",
         ["Apply Turbo"] = "Aplicar Turbo",
-        ["Limited Items Unlocker"] = "Desbloquear Articulos Limitados",
+        ["Limited Items Unlocker"] = "Desbloquear Artículos Limitados",
         ["VIP Particles Unlocker"] = "Desbloquear Partículas VIP",
 
         ["Teleports"] = "Teletransportes",

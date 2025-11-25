@@ -25,7 +25,7 @@ return {
         ["Ultimate Noclip"] = "Ultimate Noclip",
         ["Change Fov"] = "Change Fov",
         ["Fov Player"] = "Fov Player",
-        ["Change Fov"] = "Adjust Fov",
+        ["Adjust Fov"] = "Adjust Fov",
 
         ["Copy Character"] = "Copy Character",
         ["Select Player"] = "Select Player",
@@ -125,7 +125,7 @@ return {
         ["Ultimate Noclip"] = "Noclip Definitivo",
         ["Change Fov"] = "Cambiar Fov",
         ["Fov Player"] = "Fov del Jugador",
-        ["Change Fov"] = "Ajustar Fov",
+        ["Adjust Fov"] = "Ajustar Fov",
 
         ["Copy Character"] = "Copiar Personaje",
         ["Select Player"] = "Seleccionar Jugador",
@@ -203,6 +203,7 @@ return {
         ["Hexagon Client"] = "Hexagon Client (Português)",
         ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
         ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
+        ["Copy Discord link"] = "Copiar link do Discord",
 
         ["Info"] = "Informação",
         ["Player"] = "Jogador",
@@ -221,6 +222,10 @@ return {
         ["Gravity"] = "Gravidade",
         ["Infinite Jump"] = "Salto Infinito",
         ["Reset Values"] = "Redefinir valores",
+        ["Ultimate Noclip"] = "Noclip final",
+        ["Change Fov"] = "Alterar Fov",
+        ["Fov Player"] = "Jogador Fov",
+        ["Adjust Fov"] = "Ajustar Fov",
 
         ["Copy Character"] = "Copiar personagem",
         ["Select Player"] = "Selecione o jogador",
@@ -238,7 +243,7 @@ return {
         ["Character Animation"] = "Animação de personagens",
 
         ["Names"] = "Nomes",
-        ["Music All Server"] = "Música para todos os servidores",
+        ["Music All Server"] = "Música para todos os servidor",
         ["Select Audio"] = "Selecione áudio",
         ["Play Audio"] = "Reproduzir áudio",
         ["Loop Audio"] = "Áudio em loop",
@@ -253,27 +258,24 @@ return {
         ["Graphics"] = "Gráficos",
         ["Animation"] = "Animação",
 
-        ["Gamepass Vehicle Speed Unlocked"] = "Velocidade do veículo desbloqueada pelo Gamepass",
-        ["Speed Power"] = "Potência de velocidade",
+        ["Vehicle Speed Unlocker"] = "Velocidade do veículo desbloqueada",
         ["Speed Value"] = "Valor de velocidade",
-        ["Turbo Power"] = "Potência turbo",
         ["Turbo Value"] = "Valor turbo",
         ["Apply Speed"] = "Aplicar velocidade",
-        ["Apply speed value"] = "Aplicar valor de velocidade",
         ["Apply Turbo"] = "Aplicar Turbo",
-        ["Apply turbo value"] = "Aplicar valor de turbo",
+        ["Limited Items Unlocker"] = "Desbloqueador de Itens Limitados",
+        ["VIP Particles Unlocker"] = "Desbloqueador de Partículas VIP",
         
         ["Teleports"] = "Teleportes",
 
-        ["Lag Server"] = "Lag Server",
-        ["Server Spam"] = "Server Spam",
-        ["Server Commands"] = "Server Commands",
+        ["Admin Commands"] = "Comandos administrativos",
     },
 
     ptpt = {
         ["Hexagon Client"] = "Hexagon Client (Português)",
         ["Welcome to Hexagon Client"] = "Bem-vindo ao Hexagon Client",
         ["Join the Discord official"] = "Junte-se ao servidor oficial do Discord.",
+        ["Copy Discord link"] = "Copiar link do Discord",
 
         ["Info"] = "Informação",
         ["Player"] = "Jogador",
@@ -292,6 +294,10 @@ return {
         ["Gravity"] = "Gravidade",
         ["Infinite Jump"] = "Salto Infinito",
         ["Reset Values"] = "Redefinir valores",
+        ["Ultimate Noclip"] = "Noclip final",
+        ["Change Fov"] = "Alterar Fov",
+        ["Fov Player"] = "Jogador Fov",
+        ["Adjust Fov"] = "Ajustar Fov",
 
         ["Copy Character"] = "Copiar personagem",
         ["Select Player"] = "Selecione o jogador",
@@ -309,7 +315,7 @@ return {
         ["Character Animation"] = "Animação de personagens",
 
         ["Names"] = "Nomes",
-        ["Music All Server"] = "Música para todos os servidores",
+        ["Music All Server"] = "Música para todos os servidor",
         ["Select Audio"] = "Selecione áudio",
         ["Play Audio"] = "Reproduzir áudio",
         ["Loop Audio"] = "Áudio em loop",
@@ -324,21 +330,17 @@ return {
         ["Graphics"] = "Gráficos",
         ["Animation"] = "Animação",
 
-        ["Gamepass Vehicle Speed Unlocked"] = "Velocidade do veículo desbloqueada pelo Gamepass",
-        ["Speed Power"] = "Potência de velocidade",
+        ["Vehicle Speed Unlocker"] = "Velocidade do veículo desbloqueada",
         ["Speed Value"] = "Valor de velocidade",
-        ["Turbo Power"] = "Potência turbo",
         ["Turbo Value"] = "Valor turbo",
         ["Apply Speed"] = "Aplicar velocidade",
-        ["Apply speed value"] = "Aplicar valor de velocidade",
         ["Apply Turbo"] = "Aplicar Turbo",
-        ["Apply turbo value"] = "Aplicar valor de turbo",
+        ["Limited Items Unlocker"] = "Desbloqueador de Itens Limitados",
+        ["VIP Particles Unlocker"] = "Desbloqueador de Partículas VIP",
         
         ["Teleports"] = "Teleportes",
 
-        ["Lag Server"] = "Lag Server",
-        ["Server Spam"] = "Server Spam",
-        ["Server Commands"] = "Server Commands",
+        ["Admin Commands"] = "Comandos administrativos",
     },
 
     id = {

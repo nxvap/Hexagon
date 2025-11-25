@@ -179,7 +179,7 @@ return {
         ["Unban all houses"] = "Desbanearse de todas las Casas",
         ["Troll Scripts"] = "Scripts Troll",
         ["Troll Tools"] = "Herramientas Troll",
-        ["Troll Options"] = "Comandos Troll",
+        ["Troll Options"] = "Opciones Troll",
         ["Spam Commands"] = "Comandos de Spam",
         ["Canoes Spam"] = "Spam de Canoas",
 
@@ -265,7 +265,7 @@ return {
         ["Unban all houses"] = "Desbanir todas as casas",
         ["Troll Scripts"] = "Scripts troll",
         ["Troll Tools"] = "Ferramentas troll",
-        ["Troll Options"] = "Opciones troll",
+        ["Troll Options"] = "Opções troll",
         ["Spam Commands"] = "Comandos de spam",
         ["Canoes Spam"] = "Spam de Canoas",
 
@@ -351,7 +351,7 @@ return {
         ["Unban all houses"] = "Desbanir todas as casas",
         ["Troll Scripts"] = "Scripts troll",
         ["Troll Tools"] = "Ferramentas troll",
-        ["Troll Options"] = "Opciones troll",
+        ["Troll Options"] = "Opções troll",
         ["Spam Commands"] = "Comandos de spam",
         ["Canoes Spam"] = "Spam de canoa",
 
@@ -408,6 +408,7 @@ return {
         ["Equip All Parts"] = "Lengkapi Semua Bagian",
         ["Equip all selected body parts"] = "Lengkapi semua bagian tubuh yang dipilih",
         ["Character Animation"] = "Animasi Karakter",
+        ["Advanced Animation Customizer"] = "Penyesuai Animasi Tingkat Lanjut",
 
         ["Names"] = "Nama",
         ["Music All Server"] = "Musik Semua Server",

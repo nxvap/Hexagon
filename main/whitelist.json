@@ -27,6 +27,10 @@
     "type": "Admin",
     "expires": "7/1/2025"
   },
+  "adminfromtexas": {
+    "type": "Admin",
+    "expires": "9/1/2025"
+  },
   "yoyo_bre9": {
     "type": "Vip",
     "expires": "8/12/2025 23:59"

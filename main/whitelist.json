@@ -4,7 +4,7 @@
     "expires": null
   },
   "deluxe_studios": {
-    "type": "Admin",
+    "type": "Staff",
     "expires": null
   },
   "ketylnbel": {
@@ -20,16 +20,16 @@
     "expires": null
   },
   "amanasaad": {
-    "type": "Mod",
+    "type": "Admin",
     "expires": "24/12/2029"
   },
   "namo_55444": {
     "type": "Admin",
-    "expires": "7/1/2025"
+    "expires": "7/1/2026"
   },
   "adminfromtexas": {
-    "type": "Admin",
-    "expires": "5/1/2025"
+    "type": "Mod",
+    "expires": "5/12/2025"
   },
   "yoyo_bre9": {
     "type": "Vip",

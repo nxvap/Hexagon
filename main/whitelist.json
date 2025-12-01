@@ -31,9 +31,13 @@
     "type": "Admin",
     "expires": "1/1/2027"
   },
+  "rov129380": {
+    "type": "Vip",
+    "expires": "2/12/2025"
+  },
   "adminfromtexas": {
-    "type": "Mod",
-    "expires": "5/12/2025"
+    "type": "Vip",
+    "expires": "2/12/2025"
   },
   "yoyo_bre9": {
     "type": "Vip",

@@ -11,6 +11,10 @@
     "type": "Staff",
     "expires": null
   },
+  "japinha_mimiu": {
+    "type": "Admin",
+    "expires": null
+  },
   "rip_indra64252": {
     "type": "Admin",
     "expires": null
